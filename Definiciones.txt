@@ -1,0 +1,40 @@
+EXPOSICIONES 
+
+UIPATH 
+Herramienta de automatizacion con RPA 
+
+APIUM
+Automatizacion para moviles 
+
+Cuando se van a probar pruebas moviles tiene que saber si seran nativas,hibridas o web 
+Versiones de la app 
+
+Simular: Lo que hace espera que haga el usuario 
+Emular: 
+Node Js: Conexion entre el codigo y el sistema operativo 
+Depuracion usb: Permite que que un ordenador se comecte al celular para pasar info 
+
+TESTIM.IO 
+Automatizacion de pruebas con inteligencia artificial 
+
+GAUGE 
+Pasos de instalacion los comandos son por consola 
+Spec-Tipo jazmin pruebas unitarias
+
+CYPRESS.IO
+Solo se prueba Front 
+Mocks- Creacion se objetos para simular su respuesta 
+E2E Pruebas que se realizan en el aplicativo como lohace el usuario, base de datos: Flujo visula y no visual: Backend Frontend 
+NPM: Gestionador de paquetes 
+
+KATALON
+Automatizacion de moviles y web
+Apium y Selenium
+API : Servicions web
+Rest: Protocolos para manejo de servicios Json 
+Soap: XML
+
+PROTRACTOR 
+Se crea un proyecto en eclipse javaJS
+
+

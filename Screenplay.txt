@@ -1,0 +1,55 @@
+SERENITY
+
+Actor - Robot
+Tareas(Task)- Metodos
+Acciones (Actions)- Pasos 
+Questions - Validaciones (Assert)
+Web Page- Pagina con la que se interactua 
+Habilidades - Actividades que se le designan al programa 
+
+1-Especificar la prueba (Cucumber= Describir el comportamiento que tiene un actor dentro de la Web)
+GIVEN= Habilidades/ Tareas
+WHEN=Tareas
+THEN=Asserts
+
+*Instalacion de cucumber 
+*Generacion Steps Definitions
+
+1.Crear un proyecto en eclipse Gradle 
+2. Eliminar los paquetes que se crean por defecto
+3.Instalar cucumber Help- Marketplace Eclipse 
+4.Despues de reiniciar eclipse hacer una clase (buscarEnGoogle.feature)
+
+
+
+Feature: Busqueda en google
+Yo como un usuario con internet voy a ingresar a la pagina de google 
+y voy a buscar una palabra  
+
+
+Scenario: Busuqeda exitosa en Google 
+
+GIVEN Melissa entro a Google 
+WHEN Melissa busca la palabra "Quesito"
+THEN Melissa valida que el titulo de la ventana contenga la palabra "Quesito"
+
+* Agregar las librerias en buil.gradle en dependencias
+maven repository cucumber jvm java,junit,core version  4.2.0 (refrescar gradle)
+
+Crear otro paquete com.google.certificacion.runner
+clase buscaren google runner 
+
+
+Pasos logicos ScreenPlay 
+
+1. Crear un proyecto de Gladle 
+2. En el build.gradle se agregan los pluggis y dependencias requeridas para trabajar 
+3. Copiar el driver en la ruta del proyecto 
+4.Crear paquetes segun el estandar 
+5. Crear el archivo . features
+6. Crear los stepdefinitions 
+7. Crear el runner 
+ 
+
+
+

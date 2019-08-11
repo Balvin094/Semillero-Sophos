@@ -1,0 +1,29 @@
+Proyecto en Selenium 
+
+1. Crear un java project
+2. Crear un package 
+3. Importar librerias de los drivers de los browsers, importarlas como .jar 
+
+
+
+Proyecto en Gradle 
+
+1. Crear un proyecto Gradle 
+2. Ir a la pagina de maven y copiar y pegar la dependencia de selenium de gradle 
+3. En dependencias copiar en el repositorio de maven gradle 
+
+
+Procesos 
+1.Instalacion 
+2.Configuracion 
+3.Uso
+
+
+Arrange (Dado-Given)
+Act (Cuando-When)
+Assert (Entonces-Then)
+
+.close cierra la ventana donde estas ubicado 
+.quit cierra todo y la ventanas 
+
+
